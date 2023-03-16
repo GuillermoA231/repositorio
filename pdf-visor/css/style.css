@@ -1,0 +1,25 @@
+#canvas-container {
+  background: #333;
+  text-align: center;
+  border: solid 3px;
+}
+
+/* Very-small devices (portrait phones) */
+@media only screen and (max-width: 320px) {
+  /* reglas de estilo para very-small */
+}
+
+/* Small devices (landscape phones) */
+@media only screen and (min-width: 321px) and (max-width: 768px) {
+  /* reglas de estilo para small */
+}
+
+/* Medium devices (tablets) */
+@media only screen and (min-width: 769px) and (max-width: 1024px) {
+  /* reglas de estilo para medium */
+}
+
+/* Large devices (desktops) */
+@media only screen and (min-width: 1025px) {
+  /* reglas de estilo para large */
+}
